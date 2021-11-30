@@ -15,7 +15,7 @@ To improve the learner’s ability to think computationally. This resource is de
 These resources consist of a set of code problems with associated questions in the exam style of GCSE Computer Science. These resources can be used in many ways but are best used as part of a discussion exercise with a class. Learners analyse and evaluate the code, then step through the code before answering the exam-style questions. 
 
 ## License
-You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Computational_Thinking/blob/main/Licence) for the complete license.
+You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Computational_Thinking/blob/main/Licence.md) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
