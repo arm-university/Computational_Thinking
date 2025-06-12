@@ -1,8 +1,11 @@
 # Computational Thinking Tasks
+
+ ## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Computational_Thinking/releases/download/v2.0.0/Computational_Thinking-main.zip)
+
+
 These resources cover all the GCSE Computer Science Computational Thinking techniques and contain lots of interactive activities to reinforce understanding to prepare learners for their exams.
-
-
-## [Download here](https://github.com/arm-university/Computational_Thinking/archive/refs/heads/main.zip)
 
 ## Resource Aim
 To improve the learner’s ability to think computationally. This resource is designed to prepare learners to answer computational questions in the form and complexity that would be expected for GCSE Computer Science examinations.
